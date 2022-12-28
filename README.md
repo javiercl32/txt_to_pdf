@@ -1,2 +1,3 @@
 # txt_to_pdf
-files txt to pdf
+-maven project
+-convert txt to pdf
